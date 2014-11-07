@@ -1,4 +1,0 @@
-teaching
-========
-
-teaching sites
